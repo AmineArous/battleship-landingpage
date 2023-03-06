@@ -37,15 +37,15 @@ features                                  :
 
   - title                                 : Solo mode
     description                           : Play again your phone
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : mobile
     
   - title                                 : Local mode
     description                           : Look for player's on peer to peer connexion and play again them
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : connectdevelop
 
   - title                                 : Online mode
     description                           : Challenge players from around the world in epic and thrilling naval battles
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : trophy
 
 
 
