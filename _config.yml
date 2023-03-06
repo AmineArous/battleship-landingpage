@@ -36,12 +36,12 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Solo mode
-    description                           : Play again your phone
+    description                           : Play solo against your phone
     fontawesome_icon_name                 : mobile
     
   - title                                 : Local mode
     description                           : Look for player's on peer to peer connexion and play again them
-    fontawesome_icon_name                 : connectdevelop
+    fontawesome_icon_name                 : compress
 
   - title                                 : Online mode
     description                           : Challenge players from around the world in epic and thrilling naval battles
